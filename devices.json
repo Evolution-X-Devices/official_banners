@@ -304,7 +304,7 @@
       "codename": "beryllium",
       "device_name": "POCO F1",
       "device_type": 8,
-      "maintainer": "Tejas"
+      "maintainer": "Tejas Singh"
     },
     {
       "codename": "alioth",
@@ -369,8 +369,8 @@
     {
       "codename": "ginkgo",
       "device_name": "Redmi Note 8",
-      "device_type": 6,
-      "maintainer": "Tejas"
+      "device_type": 5,
+      "maintainer": "Tejas Singh"
     },
     {
       "codename": "begonia",
