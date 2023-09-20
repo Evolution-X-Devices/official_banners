@@ -421,6 +421,13 @@
       "maintainer": "Fikri A. (elizabethangelalorenza)"
     },
     {
+      "codename": "spes",
+      "device_name": "Redmi Note 11/Note 11 NFC",
+      "device_name_line2": "",
+      "device_type": 1,
+      "maintainer": "Hoang Pham Anh Duy (etylix)"
+    },
+    {
       "codename": "veux",
       "device_name": "POCO X4 Pro 5G/Redmi Note 11E Pro/",
       "device_name_line2": "Note 11 Pro 5G/Note 11 Pro+ 5G",
